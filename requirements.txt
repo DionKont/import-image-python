@@ -1,0 +1,3 @@
+azure-mgmt-containerregistry
+azure-identity
+requests
